@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaptainCrusher
 - 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning blender
-- 💞️ I’m looking to collaborate on codex128's race gmae
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on Arduino Projects
 - 📫 How to reach me......um......u won't
 
 <!---
